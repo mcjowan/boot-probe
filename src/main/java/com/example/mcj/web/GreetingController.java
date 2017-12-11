@@ -1,4 +1,4 @@
-package com.example.mcj;
+package com.example.mcj.web;
 
 import java.util.concurrent.atomic.AtomicLong;
 
